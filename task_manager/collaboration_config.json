@@ -1,0 +1,9 @@
+{
+  "communication_dir": "/home/patrick/projects/giano/chat",
+  "storage_file": "tasks.json",
+  "backup_dir": "backups",
+  "handshake_timeout": 10,
+  "discovery_interval": 1,
+  "max_communication_files": 100,
+  "agent_id_pattern": "^agent[1-9]\\d*$"
+}

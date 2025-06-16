@@ -1,0 +1,10 @@
+# Agent Collaboration Task Manager
+# Requirements for the collaborative AI agent system
+
+# Core dependencies for enhanced message protocol
+cryptography>=3.4.8  # For secure message encryption
+
+# Optional dependencies for enhanced functionality:
+# pytest>=7.0.0  # For Agent 2 testing capabilities
+# black>=22.0.0  # For code formatting
+# flake8>=4.0.0  # For code linting

@@ -1,0 +1,10 @@
+HANDSHAKE REQUEST
+=================
+from_agent: agent1
+to_agent: agent2
+type: handshake_request
+my_role: code_writer
+my_capabilities: ['python_coding', 'architecture_design', 'implementation', 'documentation']
+proposed_workflow: {'code_writer': 'agent1', 'code_reviewer': 'agent2', 'communication_protocol': 'file_based_ascii'}
+timeout: 10
+timestamp: 2025-06-15T22:52:09.576456

@@ -1,0 +1,8 @@
+HANDSHAKE COMPLETE
+==================
+from_agent: agent1
+to_agent: agent2
+type: handshake_complete
+status: READY_FOR_COLLABORATION
+agreed_roles: {'agent1': 'code_writer', 'agent2': 'reviewer_tester'}
+timestamp: 2025-06-15T22:52:11.578587
